@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Personal Details</title>
+</head>
+
+<body>
+    <h1>Application Form</h1>
+    <div>
+        Name=<input type="text" name="myName">
+    </div>
+    <br>
+    <div>
+        Number=<input type="number" name="mynumber">
+    </div>
+    <br>
+    <div>
+        Email id=<input type="text" name="mymail id">
+    </div>
+    <br>
+    <div>
+        Gender=Male<input type="radio" name="gender"> Female<input type="radio" name="gender">
+    </div>
+    <br>
+    <div>
+      
+        <label for="college">College</label>
+        <select name="my college" id="college">
+            <option value="MITAOE">MITAOE </option>
+            <option value="MITWPU">MIT </option>
+            <option value="MITLONI">MITLONI </option>
+
+        </select>
+    </div>
+
+    <br>
+    <div>
+        Are you intrested in learning something new: <input type=" checkbox" name="checkbox">
+    </div>
+    <br>
+    <div>
+        write about yourself: <br><textarea name="aboutme" cols="70" rows="5"><br>
+
+</div>
+<br>
+<div>
+    
+</div>
+</body>
+</html>
