@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Information</title>
+</head>
+
+<body>
+    <div>
+        <h1>this is block element
+        </h1>
+    </div>
+    <h2>this is table</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Roll no</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>Chandni</td>
+                <td>23</td>
+            </tr>
+            <tr>
+                <td>Chandni</td>
+                <td>23</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
